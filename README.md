@@ -23,22 +23,22 @@ This project simulates real-world trading features with a modern, responsive das
 ---
 
 ## 📂 Project Structure
-**backend/ → Node.js + Express APIs
-**DashBoard/ → Trading dashboard (React)
-**frontend/ → Frontend components
+backend/ → Node.js + Express APIs
+DashBoard/ → Trading dashboard (React)
+frontend/ → Frontend components
 
 
 ---
 
 ## ⚙️ Setup & Run
 ### Backend
-**cd backend
-**npm install
-**npm start
+cd backend
+npm install
+npm start
 
 ### DashBoard
-**cd DashBoard
-**npm install
-**npm start
-**App runs at: http://localhost:3000
+cd DashBoard
+npm install
+npm start
+App runs at: http://localhost:3000
 
